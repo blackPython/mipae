@@ -1,4 +1,4 @@
-#Mutual Information based method for Unsupervised Disentanglement of Video Representations
+# Mutual Information based method for Unsupervised Disentanglement of Video Representations
 This is the offical implementation of "Mutual Information based method for Unsupervised Disentanglement of Video Represenations" accepted for publication in ICPR 2020. The paper will be uploaded to arXiv soon.
 This code is developed using pytorch 1.4.0, make sure you use the same version for smooth execution. 
 
